@@ -24,7 +24,7 @@ $`\color{blue}\text{[Party] Cross-Functional Collab. - Stakeholder-Focused Solut
 [LookingForGroup] Opportunities to learn new technologies and programming languages  
 <br>
 <br>
-$`\color{purple}\text{[Whisper] Cody: I treat every new technology like a new zone to explore: learn the map, complete the quests, and eventually master it.}`$  
+$`\color{purple}\text{[Whisper] Cody: I treat every new technology like a new zone to explore: learn the map, complete the quests, and}`$ $`\color{purple}\text{eventually master it.}`$  
 <br>
 <br>
 $`\color{red}\text{[System] Cody has come online!}`$  
